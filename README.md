@@ -20,8 +20,7 @@ gcc lincom3.c -o lincom3 -lm -Wall -Wextra -O2
 * -lm: libm (math library)
 * -Wall: this activates all basic warnings of the compiler
 * -Wextra: this activates all additional warnings
-* -O2: the level of optimisation of the code during compilation
-_*(-O3 is a more aggressive version of -O2)_
+* -O2: the level of optimisation of the code during compilation _(-O3 is a more aggressive version)_
 
 Use this line of code to find your combinations:
 
