@@ -30,6 +30,6 @@ Use this line of code to find your combinations:
 
 In this example (originally maxfile.txt), we have 75 frequencies read, and the output file will be example.txt.sdv (Python) or example.txt.sd (C).
 
-For research purposes: period ≤ 150000 s & frequency ≤ 800 muHz
+For research purposes: period ≤ 150000 s & frequency ≥ 800 muHz.
 
-For DAVs, the periods are shorter than 1200 s, but for ELMVs they can be longer.
+Long periods (frequencies below 800muHz) generate many linear combinations that are not real. For DAVs, the periods are shorter than 1200 s, but for ELMVs they can be longer.
