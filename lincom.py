@@ -1,3 +1,11 @@
+'''
+Written 22Feb95 by Scot Kleinman.
+6Feb96 -added -s switch - sjk
+Needs to be linked with ncolread.o (my generic read data routines).
+
+Python version written in 2025 by Laura C. Sultan
+'''
+
 import argparse
 import math
 
