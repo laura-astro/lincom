@@ -3,7 +3,7 @@
    Produces a list of combination frequencies from an input list.
 
    Usage example:
-     ./lincom2 -f maxfile.txt -e 0.2 -a 0 -s 1
+     ./lincom2 -f maxfile.txt -e 0.2 -a 0 -s 1 
 
    Options:
      -a #    alias value
